@@ -1,0 +1,7 @@
+{
+    "require": {
+        "textalk/websocket": "*",
+        "opauth/opauth": "*",
+        "opauth/twitter": "*"
+    }
+}
